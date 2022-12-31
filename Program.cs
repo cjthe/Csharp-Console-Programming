@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 
-
+// Program the program
 
 
 Console.WriteLine("Enter Length: ");
